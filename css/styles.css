@@ -268,8 +268,7 @@ section {
 }
 
 .team-item-info {
-  margin: 32px auto;
-  /* padding: 32px 16px; */
+  /* margin: 32px auto; */
   padding: 32px 0;
 }
 
@@ -293,9 +292,9 @@ section {
   background-color: #ffffff;
 }
 
-.portfolio-project {
-  /* padding: 32px 16px; */
-}
+/* .portfolio-project {
+  padding: 32px 16px;
+} */
 
 .portfolio-title {
   text-align: center;
